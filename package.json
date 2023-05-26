@@ -2,12 +2,22 @@
   "name": "teste-econverse",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:EconverseAG/teste-logica.git",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/EconverseAG/teste-logica.git"
+  },
   "license": "MIT",
   "devDependencies": {
-    "jest": "^26.1.0"
+    "jest": "^29.5.0"
   },
   "scripts": {
     "test": "jest"
-  }
+  },
+  "description": "## Descrição Esse repositório possui o teste da Econverse para avaliar as habilidades de lógica do candidato em questão.",
+  "bugs": {
+    "url": "https://github.com/EconverseAG/teste-logica/issues"
+  },
+  "homepage": "https://github.com/EconverseAG/teste-logica#readme",
+  "keywords": [],
+  "author": ""
 }
