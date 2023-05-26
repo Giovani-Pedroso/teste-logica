@@ -3,9 +3,9 @@
 ## Descrição
 Esse repositório possui o teste da Econverse para avaliar as habilidades de lógica do candidato em questão.
 
-## Instaloção:
+## Instalação:
 
-rode o camando:
+Rode o camando:
 
 ```
 npm i
